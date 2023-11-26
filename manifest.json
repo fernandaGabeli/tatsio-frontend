@@ -1,0 +1,15 @@
+{
+    "name": "Tsatio",
+    "short_name": "tsatio",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/logo1.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
